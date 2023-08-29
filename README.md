@@ -20,7 +20,7 @@ Navigate to http://localhost:8000 in your browser.
 
 ![image info](./img/2.png)
 
-To stop the container:
+To stop and destroy the container:
 
 ```sh
 terraform destroy
