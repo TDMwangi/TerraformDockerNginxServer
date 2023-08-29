@@ -20,8 +20,6 @@ Navigate to http://localhost:8000 in your browser.
 
 ![image info](./img/2.png)
 
-image--------------
-
 To stop the container:
 
 ```sh
